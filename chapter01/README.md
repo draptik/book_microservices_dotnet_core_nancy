@@ -159,11 +159,9 @@ and open browser at `http://localhost:5000`
 
 ## Summary
 
-I'll try to use **Trial 3**: A simple Nancy project generated using `yo aspnet`.
+~~I'll try to use **Trial 3**: A simple Nancy project generated using `yo aspnet`.~~
 
-
-
-
+No. I will use **Trial 2** (`dotnet new web`) instead.
 
 
 
@@ -182,7 +180,7 @@ v6.9.4
  $ yo --version
 1.8.5
  $ dotnet --version
-1.0.0-rc4-004771
+1.0.1
 ```
 
 ## Ubuntu linux
