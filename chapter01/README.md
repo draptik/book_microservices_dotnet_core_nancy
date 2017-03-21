@@ -4,6 +4,8 @@ This folder contains a Hello-World app for .NET Core on linux. It took me a few 
 
 **IMPORTANT:**
 
+Since I started writing this, things have changed numerous times. Don't expect this document to be up-to-date (if Microsoft can't keep their documentation up-to-date, how should I?).
+
 Since the book was published the .NET Core project setup has changed (again).
 
 The book uses `project.json` to configure projects. Microsoft recently changed the project configuration to `msbuild/csproj` files (2017-03-07).
